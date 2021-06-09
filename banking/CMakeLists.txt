@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDART_REQUIRES ON)
 project(lib)
 
 add_library(banking STATIC Account.cpp Transaction.cpp)
+
